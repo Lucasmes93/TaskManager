@@ -2,6 +2,11 @@
 
 TaskManager est une application Android simple et intuitive permettant aux utilisateurs de gérer leurs tâches quotidiennes. Elle propose des fonctionnalités de création, visualisation et rappel des tâches pour améliorer la productivité.
 
+## Auteurs
+LEROGNON Grégoire
+MESSIA DOLIVEUX Lucas
+YAZI Iles
+
 ## Fonctionnalités
 
 - **Liste des tâches** : Visualisez toutes vos tâches organisées dans une liste.
@@ -53,8 +58,3 @@ TaskManager est une application Android simple et intuitive permettant aux utili
 2. **Ajouter une tâche** : Implémentez un bouton d'ajout dans des versions ultérieures.
 3. **Recevoir un rappel** : Configurez une tâche avec un rappel pour recevoir une notification.
 
-
-## Auteurs
-LEROGNON Grégoire
-MESSIA DOLIVEUX Lucas
-YAZI Iles
